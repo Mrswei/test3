@@ -2,10 +2,10 @@ package entity;
 
 public class tsss {
 	public static void main(String[] args) {
-		System.out.println("aaa");
-		System.out.println("abc");
-		System.out.println("def");
-		System.out.println("def");
-		System.out.println("222");
+		System.out.println("ni");
+		System.out.println("shi");
+		System.out.println("bu");
+		System.out.println("shi");
+		System.out.println("sha");
 	}
 }
