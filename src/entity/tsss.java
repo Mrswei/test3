@@ -5,6 +5,6 @@ public class tsss {
 		System.out.println("aaa");
 		System.out.println("abc");
 		System.out.println("def");
-		
+		System.out.println("def");
 	}
 }
