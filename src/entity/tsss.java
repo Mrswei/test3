@@ -6,5 +6,6 @@ public class tsss {
 		System.out.println("abc");
 		System.out.println("def");
 		System.out.println("def");
+		System.out.println("222");
 	}
 }
